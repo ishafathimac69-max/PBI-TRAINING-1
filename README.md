@@ -11,6 +11,6 @@ THIS PROJECT FOCUSES ON ANALYZING SALES DATA FROM 2020,2021,2022 USING MICROSOFT
 - create an interactive dashboard to support business decisions.
   ### DATASET DESCRIPTION
   THE dataset contains the following tables :
-  1. ** 2020 sales ** - sales transactions for 2020
-  2. ** 2021 sales ** - sales transcations for 2021
-  3. ** 2022 sales ** - sales transcations for 2022
+  1. **2020 sales** - sales transactions for 2020
+  2. **2021 sales** - sales transcations for 2021
+  3. **2022 sales** - sales transcations for 2022
